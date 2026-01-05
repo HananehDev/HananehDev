@@ -41,7 +41,7 @@ var backendDeveloper = new
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-sql-server-50.png?raw=true" width="36" height="36" alt="sql server" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-git-50.png?raw=true" width="36" height="36" alt="git" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-github-50.png?raw=true" width="36" height="36" alt="github" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-github-50.png?raw=true" width="36" height="36" alt="github" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-github-logo-50.png?raw=true" width="36" height="36" alt="github" /></a>
     
 </p>
 
