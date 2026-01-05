@@ -36,6 +36,8 @@ var backendDeveloper = new
 ### Skills 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-c-50.png?raw=true" width="36" height="36" alt="C#" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt=".Net core" /></a>
+    
 </p>
 
 
