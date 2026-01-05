@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm Hananeh 
+
+```C#
+var backendDeveloper = new
+{
+    Name = "Hananeh Ranjbaran",
+    Role = "Backend Developer",
+    Stack = new
+    {
+        Languages = new[] { "C#", "Python" },
+        Frameworks = new[] { "ASP.NET Core", "FastAPI" },
+        Databases = new[] { "SQL Server" }
+    },
+    Skills = new[] { "Object-Oriented Design", "LINQ", "Entity Framework Core" , "ASP.NET MVC" , "Repository Pattern" }
+};
+```
