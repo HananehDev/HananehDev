@@ -38,7 +38,7 @@ var backendDeveloper = new
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-c-50.png?raw=true" width="36" height="36" alt="C#" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-.net-framework-50.png?raw=true" width="36" height="36" alt=".Net core" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-python-50.png?raw=true" width="36" height="36" alt="Python" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="sql server" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-sql-server-50.png?raw=true" width="36" height="36" alt="sql server" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-git-50.png?raw=true" width="36" height="36" alt="git" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/HananehDev/HananehDev/blob/main/icons8-github-50.png?raw=true" width="36" height="36" alt="github" /></a>
     
