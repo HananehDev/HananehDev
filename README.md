@@ -34,7 +34,9 @@ var backendDeveloper = new
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 -->
 ### Skills 
-<p align="left"></p>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="C#" /></a>
+</p>
 
 
 
