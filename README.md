@@ -1,5 +1,10 @@
 
 ## 👋 Hi, I'm Hananeh 
+#### ⚡ Backend Developer ( ASP.NET Core & C# )
+
+I enjoy building **clean, scalable, and maintainable backend systems**  
+with a strong focus on **architecture, data, and code quality**. 
+
 
 ```C#
 var backendDeveloper = new
@@ -9,11 +14,18 @@ var backendDeveloper = new
     Stack = new
     {
         Languages = new[] { "C#", "Python" },
-        Frameworks = new[] { "ASP.NET Core", "FastAPI" },
+        Frameworks = new[] { "ASP.NET Core", "ASP.NET MVC" },
         Databases = new[] { "SQL Server" }
     },
-    Skills = new[] { "Object-Oriented Design", "LINQ", "Entity Framework Core" , "ASP.NET MVC" , "Repository Pattern" }
+    Skills = new[]
+    {
+        "Object-Oriented Programming",
+        "LINQ",
+        "Entity Framework Core",
+        "Repository Pattern"
+    }
 };
+
 ```
 <!--
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
